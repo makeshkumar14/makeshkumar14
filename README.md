@@ -6,15 +6,12 @@
 🚀 Passionate about building real-world projects and solving problems
 🧠 Strong interest in Data Structures & Algorithms (DSA)
 💡 Enthusiastic about Backend Development & AI
-
-### ⚡ About Me
-
-- 💻 Web dev, AIML Enthusiast  
-- 🧩 Problem Solver  
-- 📈 DSA Learner  
-
-
 ---
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=makeshkumar14&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=makeshkumar14&theme=tokyonight)
 
 ### 🌐 Connect With Me
 
