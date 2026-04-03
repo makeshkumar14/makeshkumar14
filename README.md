@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 Tech Stack
-
+![Skills](https://skillicons.dev/icons?i=cpp,python,git,github)
 * C, C++, Python
 * Learning: DSA, Backend
 
