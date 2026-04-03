@@ -14,8 +14,8 @@
 📈 Currently learning DSA & Backend (Flask / FastAPI)
 🎯 Goal: Crack top product-based companies
 🌐 Connect With Me
-📧 Email: your-email@example.com
-💼 LinkedIn: https://linkedin.com/in/your-profile
+📧 Email: makesh.pyo@gmail.com
+💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/makesh-kumar-82b222322/)
 ---
 
 ## 🧠 Tech Stack
