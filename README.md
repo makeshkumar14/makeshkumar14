@@ -1,9 +1,21 @@
-# 👋 Hi, I'm Makesh
+👋 Hi, I'm Makesh
 
-🎓 B.Tech CSE Student
-💻 Aspiring Software Engineer (Backend + AI)
-🚀 Goal: Microsoft / Amazon / Zoho
+🎓 B.Tech CSE Student at SRMIST RMP
+💻 Aspiring Software Development Engineer (SDE)
+🧪 R&D Member - Sketch Club
 
+🚀 Passionate about building real-world projects and solving problems
+🧠 Strong interest in Data Structures & Algorithms (DSA)
+💡 Enthusiastic about Backend Development & AI
+
+⚡ About Me
+💻 C, C++, Python Enthusiast
+🧩 Problem Solver
+📈 Currently learning DSA & Backend (Flask / FastAPI)
+🎯 Goal: Crack top product-based companies
+🌐 Connect With Me
+📧 Email: your-email@example.com
+💼 LinkedIn: https://linkedin.com/in/your-profile
 ---
 
 ## 🧠 Tech Stack
