@@ -1,5 +1,4 @@
-👋 Hi, I'm Makesh
-
+# 👋 Hi, I'm Makesh  
 🎓 B.Tech CSE Student at SRMIST RMP
 💻 Aspiring Software Development Engineer (SDE)
 🧪 R&D Member - Sketch Club
@@ -10,10 +9,10 @@
 
 ### ⚡ About Me
 
-- 💻 C, C++, Python Enthusiast  
+- 💻 Web dev, AIML Enthusiast  
 - 🧩 Problem Solver  
-- 📈 Currently learning DSA & Backend (Flask / FastAPI)  
-- 🎯 Goal: Crack top product-based companies  
+- 📈 DSA Learner  
+
 
 ---
 
