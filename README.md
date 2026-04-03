@@ -23,7 +23,7 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=c,cpp,python,js,react,html,css,flask,fastapi,mysql,sqlite,postgres,mongodb,git,github)
 ---
-
+![Snake animation](https://github.com/YOUR_USERNAME/makeshkumar14/blob/output/github-contribution-grid-snake.svg)
 ## 🚀 Projects
 
 * Quiz Game (C++)
