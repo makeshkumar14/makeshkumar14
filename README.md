@@ -7,7 +7,20 @@
 ---
 
 ## 🧠 Tech Stack
-![Skills](https://skillicons.dev/icons?i=cpp,python,git,github)
+### 💻 Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,js)
+
+### 🌐 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,html,css)
+
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=flask,fastapi)
+
+### 🗄️ Databases
+![Database](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb)
+
+### 🛠️ Tools
+![Tools](https://skillicons.dev/icons?i=git,github)
 
 
 ---
